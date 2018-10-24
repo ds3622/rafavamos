@@ -1,5 +1,6 @@
+
 #!/bin/bash
-# Author: Paul Logston
+# Author: Paul Logston no
 # This is a great script
 sum = 0
 for arg in $@
